@@ -58,7 +58,7 @@ button {
   border-radius: 4px;
 }
 
-.counter {
+#counter {
   position: absolute;
   top: 50%;
   left: 50%;
